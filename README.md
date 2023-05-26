@@ -1,7 +1,7 @@
-https://github.com/MoizAbbasii/MoizAbbasii/blob/main/1156488.png
+
 <h1 align="center">Hi 👋, I'm Moiz Abbasi</h1>
 <h3 align="center">A passionate programmer from Pakistan.</h3>
-
+![logo](https://github.com/SamimSadeed/SamimSadeed/blob/main/github-logo%2090.png)
 
 <img align="right" align="right" alt="coding" width="350" src="https://avatars.githubusercontent.com/u/19213393?v=4">
 
