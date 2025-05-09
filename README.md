@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **amoizabbasi11@gmail.com**
 
-- ⚡ Fun fact **I just Adjust with Any Situation😁😁**
+- ⚡ Fun fact **I just Keep Learning....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
